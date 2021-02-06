@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spotify Playground</string>
+    <string name="spotify_authentication_failed">Failed to authenticate with Spotify</string>
+    <string name="spotify_user_login">Connect spotify</string>
+    <string name="spotify_anonymous_login">Connect without Spotify account</string>
+    <string name="spotify_logout">Logout</string>
+    <string name="logout_failed">Failed to log out</string>
+    <string name="tracks_search_failed">Failed to search tracks</string>
+    <string name="spotify_api_load_failed">Failed to load Spotify API</string>
+</resources>
